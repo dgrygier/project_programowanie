@@ -1,6 +1,6 @@
 # project_programowanie
 
-[b]Jak odpalić?
+Jak odpalić?
 Jak testować?
 Opis programu
-Propozycje TO DO[/b]
+Propozycje TO DO
