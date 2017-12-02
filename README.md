@@ -1,4 +1,4 @@
-# project_programowanie
+# Nazwa projektu
 # Jak odpalić?
 # Jak testować?
 # Opis działania
